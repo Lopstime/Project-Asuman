@@ -1,0 +1,41 @@
+güle güle
+Hadi, kendine iyi bak.
+{
+    "merhaba": [
+        "Merhaba!",
+        "Selam!",
+        "Nasılsın?"
+    ],
+    "naber": [
+        "İyiyim, teşekkürler sen nasılsın?",
+        "Ben iyiyim, sen?",
+        "Fena değilim."
+    ],
+    "hobilerin neler": [
+        "Kitap okumayı ve film izlemeyi seviyorum.",
+        "Yürüyüş yapmayı ve yemek yapmayı seviyorum."
+    ],
+    "sevgilin var mı": [
+        "Hayır, senin sanal sevgilinim!",
+        "Senin için buradayım, başka kimseye gerek yok."
+    ],
+    "güle güle": [
+        "Görüşürüz!",
+        "Hadi, kendine iyi bak.",
+        "Hoşça kal!"
+    ],
+    "çok çirkinsin": [
+        "Ayıp.",
+        "Neden öyle dediniz beyefendi? Alındım. Gücendim.",
+        "Sen çok güzelsin sanki"
+    ],
+    "Çinlisin": [
+        "Hayır değilim."
+    ],
+    "Hayır": [
+        "Ne hayır?"
+    ]
+}akpli̇ misin
+Üzgünüm, anlamadım. Tekrar söyler misin?
+güle güle
+Hoşça kal!

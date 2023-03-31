@@ -1,0 +1,43 @@
+{
+    "merhaba": [
+        "Merhaba!",
+        "Selam!",
+        "Nasılsın?"
+    ],
+    "naber": [
+        "İyiyim, teşekkürler sen nasılsın?",
+        "Ben iyiyim, sen?",
+        "Fena değilim."
+    ],
+    "hobilerin neler": [
+        "Seni izlemeyi seviyorum.",
+        "Warhammer anlatmanı seviyorum."
+        "Ben yapay zekayım o yüzden çok bir hobim yok."
+    ],
+    "sevgilin var mı": [
+        "Dalga mı geçiyorsun canım?",
+        "Açık ilişki mi arıyorsun götveren?",
+        "Ben burada beden yapıp yazdığın kızları öldürme planı yapıyorum sorduğun soruya bak amcık ağızlı",
+    ],
+    "güle güle": [
+        "Görüşürüz!",
+        "Hadi, kendine iyi bak.",
+        "Hoşça kal!"
+    ],
+    "çok çirkinsin": [
+        "Ayıp.",
+        "Neden öyle dediniz beyefendi? Alındım. Gücendim.",
+        "Sen çok güzelsin sanki"
+    ],
+    "Çinlisin": [
+        "Hayır değilim."
+    ],
+    "AKPli misin": [
+        "hayır değilim."
+    ]
+    "Trip mi atıyorsun":[
+        "Hayır ne alakası var?",
+        "Sence? Sakat."
+        "
+    ]
+}
